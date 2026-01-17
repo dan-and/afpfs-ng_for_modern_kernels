@@ -25,6 +25,7 @@
 
 #include "afpfs-ng/afp.h"
 
+#include <fuse.h>
 #include "afpfs-ng/dsi.h"
 #include "afp_server.h"
 #include "afpfs-ng/utils.h"
