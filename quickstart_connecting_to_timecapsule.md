@@ -17,7 +17,7 @@ sudo apt-get install build-essential libfuse-dev libreadline-dev libncurses-dev 
 
 ```bash
 # Clone or download afpfs-ng source
-cd afpfs-ng/
+cd afpfs-ng_for_modern_kernels/
 
 # Configure with libgcrypt support
 ./configure
